@@ -12,7 +12,7 @@ M.Sc. student in **Computational Modeling and Simulation** at **TU Dresden**. I 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **NarrAI** · [live demo](https://narrai-bank.vercel.app) · [case study](https://prathamesh-portfolio-ruddy.vercel.app/work/narrai-bank) | White-label banking app that turns transactions into plain-language stories. Code calculates every number, an LLM only narrates, and guardrails verify each sentence before a customer sees it. | Python, FastAPI, Next.js, PostgreSQL, LLMs |
+| **[NarrAI](https://github.com/prathameshrane08/narrai-bank)** · [live demo](https://narrai-bank.vercel.app) · [case study](https://prathamesh-portfolio-ruddy.vercel.app/work/narrai-bank) | White-label banking app that turns transactions into plain-language stories. Code calculates every number, an LLM only narrates, and guardrails verify each sentence before a customer sees it. | Python, FastAPI, Next.js, PostgreSQL, LLMs |
 | **Bias, harm and false refusals in LLMs** · [case study](https://prathamesh-portfolio-ruddy.vercel.app/work/llm-bias-explainability) | Explainability study of how Falcon-7B-Instruct reacts to demographic prompt variations and to harmless prompts it wrongly refuses. | PyTorch, Hugging Face Transformers, LIME, SHAP |
 | **RoboCasa robot learning** · [case study](https://prathamesh-portfolio-ruddy.vercel.app/work/robocasa-robot-learning) | Robot-learning pipeline for household manipulation tasks in simulation (LASR Lab, TU Dresden). | Python, RoboCasa, robosuite, MuJoCo |
 | **[Cutato](https://github.com/prathameshrane08/cutato-web)** · [live](https://cutato-web.vercel.app) | Haircut-booking platform with live availability, dynamic pricing and AI-assisted hairstyle consultation. | TypeScript, Next.js, Supabase/PostgreSQL |
